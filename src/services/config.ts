@@ -10,12 +10,12 @@ export const API_KEY = ''
  */
 export const DEFAULT_CONFIG = {
     chat: {
-        baseUrl: 'https://thinkflow.lz-t.top/chat/completions',
-        model: 'glm-4-flash',
+        baseUrl: 'https://open.bigmodel.cn/api/paas/v4/chat/completions',
+        model: 'glm-4.5-flash',
         apiKey: ''
     },
     image: {
-        baseUrl: 'https://thinkflow.lz-t.top/images/generations',
+        baseUrl: 'https://open.bigmodel.cn/api/paas/v4/images/generations',
         model: 'cogview-3-flash',
         apiKey: ''
     }
