@@ -65,7 +65,7 @@
     "placeholderModel": "模型名称",
     "placeholderKey": "sk-...",
     "defaultModeTitle": "使用默认接口",
-    "defaultModeDesc": "目前使用Bigmodel(智谱)提供的免费文本生成接口glm-4-flash和图片生成接口cogview-3-flash，为了更好的体验请自定义接口。"
+    "defaultModeDesc": "使用Bigmodel(智谱)提供的文本生成接口glm-4.5-flash和图片生成接口cogview-3-flash，为了更好的体验请自定义接口。"
   },
   "node": {
     "root": "根节点",
